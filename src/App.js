@@ -76,7 +76,7 @@ function App() {
           <div className="spinner"></div>
           <div className="loading-text">Processing files...</div>
           <div className="progress-text">
-            {progress} of {files?.length || 0} file(s) done
+            {/* {progress} of {files?.length || 0} file(s) done */}
           </div>
         </div>
       ) : (
